@@ -1,0 +1,77 @@
+{
+  "messages": [
+    {
+      "timestamp": "2025-07-07T01:31:54.239927",
+      "sender": "システム",
+      "message": "Gemini CLI 多人格チャット（女性ペルソナ対応版）へようこそ！",
+      "sender_type": "system"
+    },
+    {
+      "timestamp": "2025-07-07T01:31:54.243943",
+      "sender": "システム",
+      "message": "新メンバー：りな（16歳・女性・高校生）が参加しました",
+      "sender_type": "system"
+    },
+    {
+      "timestamp": "2025-07-07T01:31:54.245209",
+      "sender": "システム",
+      "message": "女性6名・男性2名でバランス良く会話が楽しめます",
+      "sender_type": "system"
+    },
+    {
+      "timestamp": "2025-07-07T01:32:02.891288",
+      "sender": "あなた",
+      "message": "こんばんは",
+      "sender_type": "user"
+    },
+    {
+      "timestamp": "2025-07-07T01:32:40.505959",
+      "sender": "システム",
+      "message": "AIモデルを Gemini 2.5 Flash に変更しました",
+      "sender_type": "system"
+    },
+    {
+      "timestamp": "2025-07-07T01:33:06.690558",
+      "sender": "システム",
+      "message": "API制限のため、AIモデルを Gemini 1.5 Flash に自動切り替えしました",
+      "sender_type": "system"
+    },
+    {
+      "timestamp": "2025-07-07T01:33:11.510269",
+      "sender": "システム",
+      "message": "API制限のため、AIモデルを Gemini 1.5 Pro に自動切り替えしました",
+      "sender_type": "system"
+    },
+    {
+      "timestamp": "2025-07-07T01:33:16.621261",
+      "sender": "システム",
+      "message": "すべてのモデルで制限に達しています。しばらく時間をおいてから再試行してください",
+      "sender_type": "system"
+    },
+    {
+      "timestamp": "2025-07-07T01:33:16.707679",
+      "sender": "システム",
+      "message": "エラー: [API Error: [{   \"error\": {     \"code\": 404,     \"message\": \"Requested entity was not found.\",     \"errors\": [       {         \"message\": \"Requested entity was not found.\",         \"domain\": \"global\",         \"reason\": \"notFound\"       }     ],     \"status\": \"NOT_FOUND\"   } } ]] ",
+      "sender_type": "system"
+    },
+    {
+      "timestamp": "2025-07-07T01:33:28.898707",
+      "sender": "あなた",
+      "message": "っｂ",
+      "sender_type": "user"
+    },
+    {
+      "timestamp": "2025-07-07T01:33:33.514568",
+      "sender": "システム",
+      "message": "すべてのモデルで制限に達しています。しばらく時間をおいてから再試行してください",
+      "sender_type": "system"
+    },
+    {
+      "timestamp": "2025-07-07T01:33:33.582823",
+      "sender": "システム",
+      "message": "エラー: [API Error: [{   \"error\": {     \"code\": 404,     \"message\": \"Requested entity was not found.\",     \"errors\": [       {         \"message\": \"Requested entity was not found.\",         \"domain\": \"global\",         \"reason\": \"notFound\"       }     ],     \"status\": \"NOT_FOUND\"   } } ]] ",
+      "sender_type": "system"
+    }
+  ],
+  "last_updated": "2025-07-07T01:33:33.582854"
+}
